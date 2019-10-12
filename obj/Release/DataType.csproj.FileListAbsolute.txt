@@ -1,0 +1,5 @@
+E:\DontNetProjects\DataType\DataType\bin\Release\DataType.exe.config
+E:\DontNetProjects\DataType\DataType\bin\Release\DataType.exe
+E:\DontNetProjects\DataType\DataType\bin\Release\DataType.pdb
+E:\DontNetProjects\DataType\DataType\obj\Release\DataType.exe
+E:\DontNetProjects\DataType\DataType\obj\Release\DataType.pdb

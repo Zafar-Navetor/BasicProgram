@@ -1,0 +1,6 @@
+E:\DontNetProjects\DataType\DataType\bin\Debug\DataType.exe.config
+E:\DontNetProjects\DataType\DataType\bin\Debug\DataType.exe
+E:\DontNetProjects\DataType\DataType\bin\Debug\DataType.pdb
+E:\DontNetProjects\DataType\DataType\obj\Debug\DataType.exe
+E:\DontNetProjects\DataType\DataType\obj\Debug\DataType.pdb
+E:\DontNetProjects\DataType\DataType\obj\Debug\DataType.csprojResolveAssemblyReference.cache
